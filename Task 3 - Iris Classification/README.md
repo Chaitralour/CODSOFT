@@ -24,7 +24,7 @@ Classify iris flowers into 3 species: **Setosa**, **Versicolor**, and **Virginic
 5. Accuracy and classification report
 
 ## 📈 Accuracy Achieved
-> ~ (Add your actual model accuracy here)
+> 100%
 
 ---
 
